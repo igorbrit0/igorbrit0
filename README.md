@@ -3,7 +3,7 @@
 - 👨‍💻 Engenharia de Software
 - 📫 Contate-me no email: igorbrito775@gmail.com
 
-![igorbrit0's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorbrit0&show_icons=true&theme=onedark)
+![igorbrit0's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorbrit0&show_icons=true&theme=dracula)
 
 ### Tecnologias
 
